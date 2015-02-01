@@ -1,0 +1,14 @@
+#title {
+	font-size:32px;
+	font-family: Consolas, monaco, monospace;
+}
+#content {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:16px;
+}
+#footer {
+	position: absolute;  
+	bottom: 0;
+	font-size:12px;
+	height: 20px;
+}
